@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.15",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "RollerGame",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"UMG"
+			]
+		}
+	],
+	"TargetPlatforms": [
+		"HTML5",
+		"WindowsNoEditor",
+		"LinuxNoEditor",
+		"MacNoEditor"
+	]
+}
